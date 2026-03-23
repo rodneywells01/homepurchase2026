@@ -8,6 +8,12 @@
 
 [Matrix](https://docs.google.com/spreadsheets/d/1wDHrVmryF8s_1DAMIpD5JhCyhj1Z6oLasxe2rCHbRuc/edit?gid=0#gid=0)
 
+### Finance Comparison Image
+
+#### Price Comparison Dashboard
+
+![Price Comparison Dashboard](images/pricecomparison.png)
+
 | Room | [1213 Beebalm Mews](https://www.zillow.com/homedetails/1213-Beebalm-Mews-Celina-TX-75009/450791209_zpid/) | [2720 Shady Branch Ln](https://www.zillow.com/homedetails/2720-Shady-Branch-Ln-McKinney-TX-75071/458798695_zpid/) |
 | --- | --- | --- |
 | Kitchen | 8 | 7 |
@@ -40,6 +46,32 @@
 - [Outside](https://photos.app.goo.gl/QV5rjWNfByWCZFjQA)
 - [Inside 1](https://photos.app.goo.gl/ZpgE8NMaa99JKYBz9)
 - [Inside 2](https://photos.app.goo.gl/XVTjoBM7Bigo8iEJ6)
+
+### Reference Images
+
+#### Front Exterior
+
+![Front Exterior](images/beebalm/front.png)
+
+#### Kitchen
+
+![Kitchen](images/beebalm/kitchen.png)
+
+#### Living Room
+
+![Living Room](images/beebalm/livingroom.png)
+
+#### Primary Bathroom
+
+![Primary Bathroom](images/beebalm/bath.png)
+
+#### Office Front
+
+![Office Front](images/beebalm/officefront.png)
+
+#### Office View
+
+![Office View](images/beebalm/officeview.png)
 
 ### 'Doctor Doctor, give me the "Mews"'
 
@@ -76,6 +108,28 @@ I like this home the best; however I like the area a lot less. This home has a r
 ### Footage 
 - [Album](https://photos.app.goo.gl/XYk2HJDEmaGYBXKa7)
 - [Inside and Back](https://photos.app.goo.gl/sxx4jtnpbUGUFb6u9) 
+
+### Reference Images
+
+#### Front Exterior
+
+![Front Exterior](images/shady/front.png)
+
+#### Kitchen
+
+![Kitchen](images/shady/kitchen.png)
+
+#### Living Room
+
+![Living Room](images/shady/living.png)
+
+#### Primary Bathroom
+
+![Primary Bathroom](images/shady/bath.png)
+
+#### Office View
+
+![Office View](images/shady/office.png)
 
 ### Quick Thoughts 
 
