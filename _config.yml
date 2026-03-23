@@ -1,0 +1,8 @@
+title: Home Comparison
+description: Side-by-side notes and images for the home search
+theme: jekyll-theme-cayman
+markdown: kramdown
+include:
+  - README.md
+kramdown:
+  input: GFM
