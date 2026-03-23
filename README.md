@@ -178,7 +178,7 @@ As this section of Trinity Falls that I'm moving into is currently being built, 
 
 This home is a part of the Trinity Falls community, which is an actual community with some proper community features and an emphasis on lakes and nature and a lot more walkability, although it is a fairly large community still. There are running trails, hiking trails, catch-and-release ponds, community events, etc. 
 
-https://www.trinityfalls.com/
+[https://www.trinityfalls.com/](https://www.trinityfalls.com/) 
 
 My aspiration is that the Trinity Falls environment will help me to be a little bit more active and a little less of a homebody. 
 
