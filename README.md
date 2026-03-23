@@ -53,25 +53,36 @@
 
 ![Front Exterior](images/beebalm/front.png)
 
+Very cute. 
+
+
 #### Kitchen
 
 ![Kitchen](images/beebalm/kitchen.png)
+
+Jaw dropping. 
 
 #### Living Room
 
 ![Living Room](images/beebalm/livingroom.png)
 
+This living room is actually freaking insane. 
+
 #### Primary Bathroom
 
 ![Primary Bathroom](images/beebalm/bath.png)
 
-#### Office Front
+The bath here is a little weird. It has a shower only. Now, it is a very deluxe shower, which I actually like, but the bathroom itself is quite narrow and small and kind of feels cramped. Not having access to a tub is a slight disappointment. 
+
+#### Office
 
 ![Office Front](images/beebalm/officefront.png)
 
-#### Office View
-
 ![Office View](images/beebalm/officeview.png)
+
+The office is kind of nuts. It actually has a fan as well and has a cute little view to the front of the home. 
+
+The double glass doors entering the office feel super luxe. 
 
 ### 'Doctor Doctor, give me the "Mews"'
 
@@ -115,13 +126,24 @@ I like this home the best; however I like the area a lot less. This home has a r
 
 ![Front Exterior](images/shady/front.png)
 
+Very snazzy. 
+
 #### Kitchen
 
 ![Kitchen](images/shady/kitchen.png)
 
+The workable area in the kitchen is slightly smaller than Beebalm. 
+
+The cabinets seem incredibly high quality, and the drawers pull all the way out. It feels very ritzy. The island is also very beautiful, and the kitchen sink feels very luxe. 
+
+Note the little cabinets above the main cabinets. Those are for housing decorations like pots or ferns or whatever. I'm going to need to do some interior decorating here. 
+
+
 #### Living Room
 
 ![Living Room](images/shady/living.png)
+
+One of the rare homes I have seen that has a fireplace that is actually done well. The fireplace is off to the side, and the living room is constructed in such a way that there's plenty of space to have the TV to the side of the fireplace at a level that is appropriate. 
 
 #### Primary Bathroom
 
@@ -131,10 +153,34 @@ I like this home the best; however I like the area a lot less. This home has a r
 
 ![Office View](images/shady/office.png)
 
+Double-door entry to the office, but they're not glass doors. Also, there's no fan in the office. Confusingly, there's also no Ethernet port. I need to speak with them more about this, as this may cause issues. 
+
+### Back Yard Notes 
+
+The backyard is actually relatively private, which is incredibly rare. It also features a gas line out to the patio so that I can hook up a gas grill directly. 
+
 ### Quick Thoughts 
 
 More active construction, a significantly better community. Arguably even better view out of the office. Slightly worse office doors and no fan in the office. 
 
+
+### Highland Homes 
+
+This home is built by Highland Homes, who arguably is regarded as the highest quality builder in the area. This is essentially the top-of-the-line builder, and with it comes a premium, both in terms of materials and quality, but also in terms of cost. You are getting a really high seal of quality with this purchase.
+
+They do a lot more expensive land certification type activities, and more expensive insulation is used than in typical homes. They have a better foundation, they claim, than most builders. A lot of this stuff, to be honest, is a bit over my head, but I can appreciate foundational quality. 
+
+### 404 - Internet Not Found 
+
+As this section of Trinity Falls that I'm moving into is currently being built, hilariously there is actually no internet available, but that is going to be very quickly changed. Kind of funny, so I might have to use a crappy AT&T wireless internet until maybe a few months after move-in and the build out of fiber cable is complete in this area. 
+
+### Trinity Falls 
+
+This home is a part of the Trinity Falls community, which is an actual community with some proper community features and an emphasis on lakes and nature and a lot more walkability, although it is a fairly large community still. There are running trails, hiking trails, catch-and-release ponds, community events, etc. 
+
+https://www.trinityfalls.com/
+
+My aspiration is that the Trinity Falls environment will help me to be a little bit more active and a little less of a homebody. 
 
 
 ### Final Thoughts 
